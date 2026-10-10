@@ -43,3 +43,14 @@ Smitha
 
 ## ⭐ Conclusion
 This project demonstrates practical skills in data cleaning, exploratory data analysis, data visualization, and business insight generation.
+
+## 📸 Project Screenshots
+
+### Churn Analysis
+![Churn Analysis](churn-analysis.png)
+
+### Forecasting
+![Forecasting](forecasting.png)
+
+### Profit and Revenue Analysis
+![Profit and Revenue Analysis](profit-revenue-analysis.png)
